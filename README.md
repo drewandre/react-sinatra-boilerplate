@@ -7,7 +7,7 @@ Uses:
 * Sinatra v1.4.8
 * Enzyme, Expect, and Mocha test suites
 
-# To run locally:
+To run locally:
 ```
 git clone https://github.com/drewandre/react-sinatra-boilerplate.git
 bundle install
